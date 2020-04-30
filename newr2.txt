@@ -1,2 +1,3 @@
 remote 2 file - same line updated
 new line added
+line no 3 added
